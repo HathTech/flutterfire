@@ -1,3 +1,10 @@
+### Product Details 
+
+[FlutterFire](http://bit.ly/2kOhZ0P)
+
+
+### Product demo Youtube - [https://www.youtube.com/watch?v=L62kvR9clHk](https://www.youtube.com/watch?v=L62kvR9clHk) 
+
 ## Thank You
 
 Thank you for purchasing FlutterFire. If you have any questions that are beyond the scope of this help file, please feel free to create an issue here. Thanks so much!
