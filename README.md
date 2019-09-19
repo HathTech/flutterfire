@@ -1,8 +1,8 @@
 ### Product Details 
 
-[FlutterFire](https://i.imgur.com/AbqnkFg.png)
+![FlutterFire](https://i.imgur.com/AbqnkFg.png)
 
-[FlutterFire](http://bit.ly/2kOhZ0P)
+### Buy now - [FlutterFire](http://bit.ly/2kOhZ0P)
 
 
 ### Product demo Youtube - [https://www.youtube.com/watch?v=L62kvR9clHk](https://www.youtube.com/watch?v=L62kvR9clHk) 
