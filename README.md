@@ -17,6 +17,7 @@ Thank you for purchasing FlutterFire. If you have any questions that are beyond 
 - Sign In and Sign Up with Email. 
 - Sign In with Facebook. 
 - Sign In with Google. 
+- Flutter firebase phone authentication (Test: +919852954321, CODE: 333333)
 - Push notification 
 - Clean Code And Well Documented. 
 - Well Documented.
